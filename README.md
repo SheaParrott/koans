@@ -4,7 +4,6 @@ In this assignment we were instructed to fork and clone this assignment that foc
 <strong>Things learned</strong><br/>
 expanded and reinforced my knowledge into Javascript truthy and falsey<br/>  
 
-<br/> 
-<br/>
+
 <strong>Technologies Used</strong><br/>
 javascript<br/>
