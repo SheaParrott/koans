@@ -9,5 +9,4 @@ expanded and reinforced my knowledge into Javascript truthy and falsey<br/>
 javascript<br/>
 REACT<br/>
 https://www.javascript.com/ <br/>
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ <br/>
 https://reactjs.org/
